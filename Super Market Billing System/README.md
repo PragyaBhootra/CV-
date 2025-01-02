@@ -1,4 +1,4 @@
-# Supermarket Order Management System
+# Supermarket Billing system
 
 This project simulates a supermarket's order management system, allowing users to log in, browse products, select items, and place orders with automatic GST calculation. It also includes a feedback system to improve customer satisfaction.
 
