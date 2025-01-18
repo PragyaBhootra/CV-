@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   PRAGYA BHOOTRA
     
     *****************
 */
@@ -58,7 +58,7 @@ function Insertion()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   PRAGYA BHOOTRA
     
     *****************
 */
