@@ -1,6 +1,6 @@
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   PRAGYA BHOOTRA
     
     *****************
 */
@@ -61,7 +61,7 @@ function Selection_sort()
 
 /*
     *****************
-    DONE BY:-   TUMMALA KETHAN
+    DONE BY:-   PRAGYA BHOOTRA
     
     *****************
 */
